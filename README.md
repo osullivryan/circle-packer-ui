@@ -1,1 +1,3 @@
-# circle-packer-ui
+# Circle Packer UI
+
+# WIP
